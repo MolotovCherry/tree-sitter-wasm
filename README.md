@@ -14,3 +14,5 @@ Download emscriptensdk and put it in a subfolder `emsdk`. Do the usual installin
 Make sure you also have the Rust `wasm32-unknown-emscripten` build target installed.
 
 Then do the usual `build.ps1` in a powershell terminal. Output goes to `build/`
+
+Also, note that this is pretty experimental and may not even build properly yet. I'm still unsure how to best approach this
